@@ -1,0 +1,8 @@
+# Ignore source files, only deploy built files
+node_modules
+.env
+.env.local
+*.log
+.DS_Store
+coverage
+.nyc_output
